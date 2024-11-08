@@ -1,0 +1,15 @@
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai2\bin\Debug\net8.0\Bai2.exe
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai2\bin\Debug\net8.0\Bai2.deps.json
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai2\bin\Debug\net8.0\Bai2.runtimeconfig.json
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai2\bin\Debug\net8.0\Bai2.dll
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai2\bin\Debug\net8.0\Bai2.pdb
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai2\obj\Debug\net8.0\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai2\obj\Debug\net8.0\Bai2.AssemblyInfoInputs.cache
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai2\obj\Debug\net8.0\Bai2.AssemblyInfo.cs
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai2\obj\Debug\net8.0\Bai2.csproj.CoreCompileInputs.cache
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai2\obj\Debug\net8.0\Bai2.sourcelink.json
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai2\obj\Debug\net8.0\Bai2.dll
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai2\obj\Debug\net8.0\refint\Bai2.dll
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai2\obj\Debug\net8.0\Bai2.pdb
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai2\obj\Debug\net8.0\Bai2.genruntimeconfig.cache
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai2\obj\Debug\net8.0\ref\Bai2.dll

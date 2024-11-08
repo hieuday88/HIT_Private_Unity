@@ -1,0 +1,15 @@
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai1\bin\Debug\net8.0\Bai1.exe
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai1\bin\Debug\net8.0\Bai1.deps.json
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai1\bin\Debug\net8.0\Bai1.runtimeconfig.json
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai1\bin\Debug\net8.0\Bai1.dll
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai1\bin\Debug\net8.0\Bai1.pdb
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai1\obj\Debug\net8.0\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai1\obj\Debug\net8.0\Bai1.AssemblyInfoInputs.cache
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai1\obj\Debug\net8.0\Bai1.AssemblyInfo.cs
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai1\obj\Debug\net8.0\Bai1.csproj.CoreCompileInputs.cache
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai1\obj\Debug\net8.0\Bai1.sourcelink.json
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai1\obj\Debug\net8.0\Bai1.dll
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai1\obj\Debug\net8.0\refint\Bai1.dll
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai1\obj\Debug\net8.0\Bai1.pdb
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai1\obj\Debug\net8.0\Bai1.genruntimeconfig.cache
+C:\Users\hieuk\Desktop\LOPUNITY\buoi3\Bai1\obj\Debug\net8.0\ref\Bai1.dll
