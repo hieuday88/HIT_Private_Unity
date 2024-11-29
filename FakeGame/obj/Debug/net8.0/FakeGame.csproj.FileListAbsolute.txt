@@ -1,0 +1,15 @@
+C:\Users\hieuk\Desktop\LOPUNITY\BTLUnity\FakeGame\bin\Debug\net8.0\FakeGame.exe
+C:\Users\hieuk\Desktop\LOPUNITY\BTLUnity\FakeGame\bin\Debug\net8.0\FakeGame.deps.json
+C:\Users\hieuk\Desktop\LOPUNITY\BTLUnity\FakeGame\bin\Debug\net8.0\FakeGame.runtimeconfig.json
+C:\Users\hieuk\Desktop\LOPUNITY\BTLUnity\FakeGame\bin\Debug\net8.0\FakeGame.dll
+C:\Users\hieuk\Desktop\LOPUNITY\BTLUnity\FakeGame\bin\Debug\net8.0\FakeGame.pdb
+C:\Users\hieuk\Desktop\LOPUNITY\BTLUnity\FakeGame\obj\Debug\net8.0\FakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hieuk\Desktop\LOPUNITY\BTLUnity\FakeGame\obj\Debug\net8.0\FakeGame.AssemblyInfoInputs.cache
+C:\Users\hieuk\Desktop\LOPUNITY\BTLUnity\FakeGame\obj\Debug\net8.0\FakeGame.AssemblyInfo.cs
+C:\Users\hieuk\Desktop\LOPUNITY\BTLUnity\FakeGame\obj\Debug\net8.0\FakeGame.csproj.CoreCompileInputs.cache
+C:\Users\hieuk\Desktop\LOPUNITY\BTLUnity\FakeGame\obj\Debug\net8.0\FakeGame.sourcelink.json
+C:\Users\hieuk\Desktop\LOPUNITY\BTLUnity\FakeGame\obj\Debug\net8.0\FakeGame.dll
+C:\Users\hieuk\Desktop\LOPUNITY\BTLUnity\FakeGame\obj\Debug\net8.0\refint\FakeGame.dll
+C:\Users\hieuk\Desktop\LOPUNITY\BTLUnity\FakeGame\obj\Debug\net8.0\FakeGame.pdb
+C:\Users\hieuk\Desktop\LOPUNITY\BTLUnity\FakeGame\obj\Debug\net8.0\FakeGame.genruntimeconfig.cache
+C:\Users\hieuk\Desktop\LOPUNITY\BTLUnity\FakeGame\obj\Debug\net8.0\ref\FakeGame.dll
