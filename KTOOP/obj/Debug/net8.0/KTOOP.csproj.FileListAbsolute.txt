@@ -1,0 +1,15 @@
+C:\Users\hieuk\Desktop\LOPUNITY\KTOOP\bin\Debug\net8.0\KTOOP.exe
+C:\Users\hieuk\Desktop\LOPUNITY\KTOOP\bin\Debug\net8.0\KTOOP.deps.json
+C:\Users\hieuk\Desktop\LOPUNITY\KTOOP\bin\Debug\net8.0\KTOOP.runtimeconfig.json
+C:\Users\hieuk\Desktop\LOPUNITY\KTOOP\bin\Debug\net8.0\KTOOP.dll
+C:\Users\hieuk\Desktop\LOPUNITY\KTOOP\bin\Debug\net8.0\KTOOP.pdb
+C:\Users\hieuk\Desktop\LOPUNITY\KTOOP\obj\Debug\net8.0\KTOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hieuk\Desktop\LOPUNITY\KTOOP\obj\Debug\net8.0\KTOOP.AssemblyInfoInputs.cache
+C:\Users\hieuk\Desktop\LOPUNITY\KTOOP\obj\Debug\net8.0\KTOOP.AssemblyInfo.cs
+C:\Users\hieuk\Desktop\LOPUNITY\KTOOP\obj\Debug\net8.0\KTOOP.csproj.CoreCompileInputs.cache
+C:\Users\hieuk\Desktop\LOPUNITY\KTOOP\obj\Debug\net8.0\KTOOP.sourcelink.json
+C:\Users\hieuk\Desktop\LOPUNITY\KTOOP\obj\Debug\net8.0\KTOOP.dll
+C:\Users\hieuk\Desktop\LOPUNITY\KTOOP\obj\Debug\net8.0\refint\KTOOP.dll
+C:\Users\hieuk\Desktop\LOPUNITY\KTOOP\obj\Debug\net8.0\KTOOP.pdb
+C:\Users\hieuk\Desktop\LOPUNITY\KTOOP\obj\Debug\net8.0\KTOOP.genruntimeconfig.cache
+C:\Users\hieuk\Desktop\LOPUNITY\KTOOP\obj\Debug\net8.0\ref\KTOOP.dll
